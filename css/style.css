@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+@import url('components/container.css');
+@import url('components/avatar.css');
+@import url('components/button.css');
+@import url('components/banner.css');
+@import url('components/card.css');
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	margin: 10px;
+  background-color: #FAF3F3;
+  color: #2C394B;
+}
+
+h1 {
+	font-family:'Roboto', sans-serif;
+	margin-bottom: 15px;
+  color: #2C394B;
+}
+h2{
+  font-family: 'Roboto', sans-serif;
+  font-style: lighter;
+}
+
+a{
+	text-decoration: none;
+}
